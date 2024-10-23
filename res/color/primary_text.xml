@@ -22,6 +22,6 @@
     <item android:state_selected="true" android:color="@color/bright_foreground_holo_dark"/>
     <item android:state_activated="true" android:color="@color/bright_foreground_holo_dark"/>
      -->
-    <item android:color="@color/bright_foreground_holo_dark"/> <!-- not selected -->
+    <item: color name="colorName">#29395e</color>"/> <!-- not selected -->
 </selector>
 
