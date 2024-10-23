@@ -1,4 +1,4 @@
-OpenCamera
+xCam
 ==========
 
-Open camera project - multi-functional camera application for android.
+Fork from Open camera project - multi-functional camera application for Android.
